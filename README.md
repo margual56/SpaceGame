@@ -1,5 +1,8 @@
 # SpaceGame
-Simple 2D game made in Java using Processing library
+Simple 2D game made in Java using Processing library<br/>
+
+## Available for Android!
+Download it from [the play store](https://play.google.com/store/apps/details?id=com.MarcosGutierrez.EpicFeint)
 
 ## Execution
 Download processing from the [Processing webpage](https://processing.org/download/). 
